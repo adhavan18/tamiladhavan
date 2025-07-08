@@ -2,5 +2,6 @@
 19, machine learning
 
 
-[![LinkedIn](https://github.com/user-attachments/assets/f73be17a-77bb-4bd4-8ecb-c0a5737af973)](https://www.linkedin.com/in/tamiladhavan)
-
+<a href="https://www.linkedin.com/in/tamiladhavan" target="_blank">
+    <img src="linkedin.png" alt="LinkedIn" width="30" />
+</a>
